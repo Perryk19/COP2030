@@ -22,5 +22,6 @@ In this repository I will be dispalying all of the work that I have completed in
 
 **Seconds** This file demonstrates my understaning of the main() function.
 
-**Stadium** 
+**Stadium** This file demonstrates my understaning of the main() function.
+
 
