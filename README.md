@@ -10,17 +10,17 @@ In this repository I will be dispalying all of the work that I have completed in
 
 **Histogram** In this file, the code takes in a .txt file and seperates the words. Then it prints the count of each word.
 
-**Main** 
+**Main** This file demonstrates my understaning of the main() function.
 
-**Miles**
+**Miles** This file demonstrates my understaning of the main() function.
 
-**Players**
+**Players** This file demonstrates my understanding of opening and closing output files while using input functions, and for loops.
 
-**Project 1**
+**Project 1** In this file I was able to finish some pre-existing code. The code takes transactions, calculates the tax, total and subtotal, and prints a receipt. 
 
 **Repetion Structures**  In this file I demontrate my understanding of repetition structures using loops.
 
-**Seconds**
+**Seconds** This file demonstrates my understaning of the main() function.
 
-**Stadium**
+**Stadium** 
 
